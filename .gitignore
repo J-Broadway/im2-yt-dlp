@@ -1,0 +1,7 @@
+images/
+venv/
+.idea/
+.DS_Store
+*.iml
+*.pyc
+*.egg-info
